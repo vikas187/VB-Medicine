@@ -1,7 +1,6 @@
 const request = require('request');
 const csvtojson = require('csvtojson');
 const cheer = require('cheerio');
-const utils = require('./utils');
 const ObjectsToCsv = require('objects-to-csv');
 
 csvtojson()
